@@ -3,7 +3,7 @@
 Limpieza de un dataset de Titanoc
 
 ## Instalación de dependencias
-Para realizar este proyecto se ha utilizado R 3.6+. Rcomander.
+Para realizar este proyecto se ha utilizado R 3.6+.
 
 ## Descripción de los ficheros
 | Nombre del Fichero | Decripción |
