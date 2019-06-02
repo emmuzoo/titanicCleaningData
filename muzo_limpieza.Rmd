@@ -100,7 +100,7 @@ Del análisis de los ficheros `r train_file` y `r test_file` podemos extraer la 
 6. El resto de las columnas parecen ser n&uacute;meros.
 
 
-# 2.2 Importancia y objetivos de los análisis.
+# 1.2 Importancia y objetivos de los análisis.
 
 A partir de este conjunto de datos se plantea la problemática de determinar qué variables influyeron más sobre la supervivencia de los pasajeros abordo del Titanic. 
 Además, se podrá proceder a crear modelos de aprendizaje automático que permitan predecir la supervivencia de una persona en función de sus características y contrastes de hipótesis que ayuden a identificar propiedades interesantes en las muestras que puedan ser inferidas con respecto a la población.

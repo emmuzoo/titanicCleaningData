@@ -392,7 +392,7 @@ $(document).ready(function () {
 <div id="TOC">
 <ul>
 <li><a href="#descripcion-del-dataset">1 Descripción del dataset</a></li>
-<li><a href="#importancia-y-objetivos-de-los-analisis.">2.2 Importancia y objetivos de los análisis.</a></li>
+<li><a href="#importancia-y-objetivos-de-los-analisis.">1.2 Importancia y objetivos de los análisis.</a></li>
 <li><a href="#integracion-y-seleccion-de-los-datos-de-interes-a-analizar.">2. Integración y selección de los datos de interés a analizar.</a></li>
 <li><a href="#limpieza-de-los-datos">3. Limpieza de los datos</a><ul>
 <li><a href="#conversiones">Conversiones</a></li>
@@ -421,7 +421,7 @@ $(document).ready(function () {
 <div id="descripcion-del-dataset" class="section level1">
 <h1>1 Descripción del dataset</h1>
 <pre class="r"><code># Lectura de datos de entrenamiento y prueba.
-data_path &lt;- &#39;titanic&#39;
+data_path &lt;- &#39;input&#39;
 train_file &lt;- &#39;train.csv&#39;
 test_file &lt;- &#39;test.csv&#39;
 gender_file &lt;- &#39;gender_submission.csv&#39;
@@ -517,7 +517,7 @@ full_data  &lt;- bind_rows(train_data, test_data) # bind training &amp; test dat
 </ol>
 </div>
 <div id="importancia-y-objetivos-de-los-analisis." class="section level1">
-<h1>2.2 Importancia y objetivos de los análisis.</h1>
+<h1>1.2 Importancia y objetivos de los análisis.</h1>
 <p>A partir de este conjunto de datos se plantea la problemática de determinar qué variables influyeron más sobre la supervivencia de los pasajeros abordo del Titanic. Además, se podrá proceder a crear modelos de aprendizaje automático que permitan predecir la supervivencia de una persona en función de sus características y contrastes de hipótesis que ayuden a identificar propiedades interesantes en las muestras que puedan ser inferidas con respecto a la población.</p>
 </div>
 <div id="integracion-y-seleccion-de-los-datos-de-interes-a-analizar." class="section level1">
