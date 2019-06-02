@@ -3,9 +3,9 @@ title: ' Tipología y ciclo de vida. PRACTICA 2: LIMPIEZA Y VALIDACIÓN DE LOS D
 author: "Edison Marcelo Muzo Oyana"
 date: '`r format(Sys.Date(),"%e de %B, %Y")`'
 output:
-  html_document:
-    toc: yes
   pdf_document:
+    toc: yes
+  html_document:
     toc: yes
   word_document:
     toc: yes
@@ -100,7 +100,7 @@ Del análisis de los ficheros `r train_file` y `r test_file` podemos extraer la 
 6. El resto de las columnas parecen ser n&uacute;meros.
 
 
-# 1.2 Importancia y objetivos de los análisis.
+## 1.2 Importancia y objetivos de los análisis.
 
 A partir de este conjunto de datos se plantea la problemática de determinar qué variables influyeron más sobre la supervivencia de los pasajeros abordo del Titanic. 
 Además, se podrá proceder a crear modelos de aprendizaje automático que permitan predecir la supervivencia de una persona en función de sus características y contrastes de hipótesis que ayuden a identificar propiedades interesantes en las muestras que puedan ser inferidas con respecto a la población.
@@ -707,6 +707,8 @@ for (i in 1:ncol(cleaning_train_data)) {
 ```
 
 ## 4.3. Aplicación de pruebas estadísticas para comparar los grupos de datos.
+
+En primer lugar, procedemos a realizar un análisis de correlación entre las distintas variables para determinar cuáles de ellas ejercen una mayor influencia sobre la supervivencia.
 
 ```{r}
 # Calculamos la correlacion
