@@ -1,10 +1,10 @@
 # titanicCleaningData
 
-Limpieza y validación de un dataset de Supervivencia de pasajeros en el Titanic
+Limpieza y validación de un dataset de Supervivencia de pasajeros en el [Titanic](https://www.kaggle.com/c/titanic).
 
-## Instalación de dependencias
+## Software
 Para realizar este proyecto se ha utilizado R 3.6+ , RStudio y R markdown.
-Las libreris empeladas en este trabajo son:
+Las librerías empleadas en este trabajo son:
 
 library(knitr)
 
