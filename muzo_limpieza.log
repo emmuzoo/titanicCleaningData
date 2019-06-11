@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.5.5)  11 JUN 2019 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.5.5)  11 JUN 2019 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -846,14 +846,13 @@ Package xcolor Warning: Incompatible color definition on input line 272.
 
 Package xcolor Warning: Incompatible color definition on input line 272.
 
-
+[2]
 Overfull \hbox (469.99225pt too wide) in paragraph at lines 288--288
 []\T1/lmtt/m/n/10 ##  $ Name       : chr  "Braund, Mr. Owen Harris" "Cumings, M
 rs. John Bradley (Florence Briggs Thayer)" "Heikkinen, Miss. Laina" "Futrelle, 
 Mrs. Jacques Heath (Lily May Peel)" ...[] 
  []
 
-[2]
 
 Package xcolor Warning: Incompatible color definition on input line 334.
 
@@ -873,13 +872,13 @@ Mrs. Jacques Heath (Lily May Peel)" ...[]
 
 Package xcolor Warning: Incompatible color definition on input line 357.
 
-
-Package xcolor Warning: Incompatible color definition on input line 362.
-
-
-Package xcolor Warning: Incompatible color definition on input line 362.
-
 [3]
+
+Package xcolor Warning: Incompatible color definition on input line 362.
+
+
+Package xcolor Warning: Incompatible color definition on input line 362.
+
 
 Package xcolor Warning: Incompatible color definition on input line 381.
 
@@ -893,20 +892,10 @@ LaTeX Font Info:    Try loading font information for TS1+lmr on input line 430.
 
 (c:/texlive/2019/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
+) [4]
 
 Package xcolor Warning: Incompatible color definition on input line 471.
 
-
-Package xcolor Warning: Incompatible color definition on input line 479.
-
-
-Package xcolor Warning: Incompatible color definition on input line 479.
-
-
-Package xcolor Warning: Incompatible color definition on input line 479.
-
-[4]
 
 Package xcolor Warning: Incompatible color definition on input line 479.
 
@@ -958,18 +947,18 @@ Package xcolor Warning: Incompatible color definition on input line 639.
 Package xcolor Warning: Incompatible color definition on input line 639.
 
 
-Package xcolor Warning: Incompatible color definition on input line 648.
-
-
-Package xcolor Warning: Incompatible color definition on input line 657.
-
-
-Package xcolor Warning: Incompatible color definition on input line 657.
-
-
-Package xcolor Warning: Incompatible color definition on input line 657.
+Package xcolor Warning: Incompatible color definition on input line 639.
 
 [6]
+
+Package xcolor Warning: Incompatible color definition on input line 639.
+
+
+Package xcolor Warning: Incompatible color definition on input line 639.
+
+
+Package xcolor Warning: Incompatible color definition on input line 648.
+
 
 Package xcolor Warning: Incompatible color definition on input line 657.
 
@@ -994,7 +983,7 @@ Package xcolor Warning: Incompatible color definition on input line 686.
 
 Package xcolor Warning: Incompatible color definition on input line 686.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-7-1.pdf, id=134, 469.755pt x 32
+<muzo_limpieza_files/figure-latex/unnamed-chunk-7-1.pdf, id=139, 469.755pt x 32
 5.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-7-1.pdf Graphic file (type
  pdf)
@@ -1002,19 +991,10 @@ File: muzo_limpieza_files/figure-latex/unnamed-chunk-7-1.pdf Graphic file (type
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-7-1.pdf
   used on input line 688.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[7]
 
 Package xcolor Warning: Incompatible color definition on input line 696.
 
-
-Package xcolor Warning: Incompatible color definition on input line 708.
-
-
-Package xcolor Warning: Incompatible color definition on input line 708.
-
-
-Package xcolor Warning: Incompatible color definition on input line 708.
-
-[7 <./muzo_limpieza_files/figure-latex/unnamed-chunk-7-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 708.
 
@@ -1029,6 +1009,7 @@ File: muzo_limpieza_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-8-1.pdf
   used on input line 710.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[8 <./muzo_limpieza_files/figure-latex/unnamed-chunk-7-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 722.
 
@@ -1059,7 +1040,16 @@ Package xcolor Warning: Incompatible color definition on input line 749.
 
 Package xcolor Warning: Incompatible color definition on input line 759.
 
-[8 <./muzo_limpieza_files/figure-latex/unnamed-chunk-8-1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 767.
+
+
+Package xcolor Warning: Incompatible color definition on input line 767.
+
+
+Package xcolor Warning: Incompatible color definition on input line 767.
+
+[9 <./muzo_limpieza_files/figure-latex/unnamed-chunk-8-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 767.
 
@@ -1084,7 +1074,7 @@ Package xcolor Warning: Incompatible color definition on input line 827.
 
 Package xcolor Warning: Incompatible color definition on input line 827.
 
-[9]
+[10]
 
 Package xcolor Warning: Incompatible color definition on input line 873.
 
@@ -1103,7 +1093,7 @@ Package xcolor Warning: Incompatible color definition on input line 913.
 
 Package xcolor Warning: Incompatible color definition on input line 913.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-13-1.pdf, id=168, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-13-1.pdf, id=177, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-13-1.pdf Graphic file (typ
 e pdf)
@@ -1111,7 +1101,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-13-1.pd
 f  used on input line 915.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[10]
+[11]
 
 Package xcolor Warning: Incompatible color definition on input line 922.
 
@@ -1133,14 +1123,14 @@ Package xcolor Warning: Incompatible color definition on input line 950.
 
 Package xcolor Warning: Incompatible color definition on input line 964.
 
-[11 <./muzo_limpieza_files/figure-latex/unnamed-chunk-13-1.pdf>]
+[12 <./muzo_limpieza_files/figure-latex/unnamed-chunk-13-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 978.
 
 
 Package xcolor Warning: Incompatible color definition on input line 978.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-16-1.pdf, id=187, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-16-1.pdf, id=196, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-16-1.pdf Graphic file (typ
 e pdf)
@@ -1157,7 +1147,7 @@ Package xcolor Warning: Incompatible color definition on input line 994.
 
 Package xcolor Warning: Incompatible color definition on input line 994.
 
-[12 <./muzo_limpieza_files/figure-latex/unnamed-chunk-16-1.pdf>]
+[13 <./muzo_limpieza_files/figure-latex/unnamed-chunk-16-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1021.
 
@@ -1176,7 +1166,7 @@ Package xcolor Warning: Incompatible color definition on input line 1069.
 
 Package xcolor Warning: Incompatible color definition on input line 1069.
 
-[13]
+[14]
 
 Package xcolor Warning: Incompatible color definition on input line 1101.
 
@@ -1195,7 +1185,7 @@ Package xcolor Warning: Incompatible color definition on input line 1120.
 
 Package xcolor Warning: Incompatible color definition on input line 1120.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-20-1.pdf, id=210, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-20-1.pdf, id=219, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-20-1.pdf Graphic file (typ
 e pdf)
@@ -1203,7 +1193,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-20-1.pd
 f  used on input line 1122.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[14]
+[15]
 
 Package xcolor Warning: Incompatible color definition on input line 1128.
 
@@ -1222,7 +1212,7 @@ Package xcolor Warning: Incompatible color definition on input line 1161.
 
 Package xcolor Warning: Incompatible color definition on input line 1161.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-22-1.pdf, id=215, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-22-1.pdf, id=224, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-22-1.pdf Graphic file (typ
 e pdf)
@@ -1233,7 +1223,7 @@ f  used on input line 1163.
 
 Package xcolor Warning: Incompatible color definition on input line 1165.
 
-[15 <./muzo_limpieza_files/figure-latex/unnamed-chunk-20-1.pdf>]
+[16 <./muzo_limpieza_files/figure-latex/unnamed-chunk-20-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1169.
 
@@ -1249,7 +1239,7 @@ Package xcolor Warning: Incompatible color definition on input line 1187.
 
 Package xcolor Warning: Incompatible color definition on input line 1187.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-23-1.pdf, id=227, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-23-1.pdf, id=236, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-23-1.pdf Graphic file (typ
 e pdf)
@@ -1260,14 +1250,14 @@ f  used on input line 1189.
 
 Package xcolor Warning: Incompatible color definition on input line 1191.
 
-[16 <./muzo_limpieza_files/figure-latex/unnamed-chunk-22-1.pdf>]
+[17 <./muzo_limpieza_files/figure-latex/unnamed-chunk-22-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1195.
 
 
 Package xcolor Warning: Incompatible color definition on input line 1195.
 
-[17 <./muzo_limpieza_files/figure-latex/unnamed-chunk-23-1.pdf>]
+[18 <./muzo_limpieza_files/figure-latex/unnamed-chunk-23-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1225.
 
@@ -1277,7 +1267,7 @@ Package xcolor Warning: Incompatible color definition on input line 1235.
 
 Package xcolor Warning: Incompatible color definition on input line 1235.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-23-2.pdf, id=248, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-23-2.pdf, id=257, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-23-2.pdf Graphic file (typ
 e pdf)
@@ -1294,7 +1284,7 @@ Package xcolor Warning: Incompatible color definition on input line 1250.
 
 Package xcolor Warning: Incompatible color definition on input line 1250.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-24-1.pdf, id=249, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-24-1.pdf, id=258, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-24-1.pdf Graphic file (typ
 e pdf)
@@ -1305,7 +1295,7 @@ f  used on input line 1252.
 
 Package xcolor Warning: Incompatible color definition on input line 1254.
 
-[18 <./muzo_limpieza_files/figure-latex/unnamed-chunk-23-2.pdf>]
+[19 <./muzo_limpieza_files/figure-latex/unnamed-chunk-23-2.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1258.
 
@@ -1321,7 +1311,7 @@ Package xcolor Warning: Incompatible color definition on input line 1269.
 
 Package xcolor Warning: Incompatible color definition on input line 1269.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-24-2.pdf, id=259, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-24-2.pdf, id=269, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-24-2.pdf Graphic file (typ
 e pdf)
@@ -1332,7 +1322,7 @@ f  used on input line 1271.
 
 Package xcolor Warning: Incompatible color definition on input line 1273.
 
-[19 <./muzo_limpieza_files/figure-latex/unnamed-chunk-24-1.pdf>]
+[20 <./muzo_limpieza_files/figure-latex/unnamed-chunk-24-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1277.
 
@@ -1348,7 +1338,7 @@ Package xcolor Warning: Incompatible color definition on input line 1310.
 
 Package xcolor Warning: Incompatible color definition on input line 1310.
 
-[20 <./muzo_limpieza_files/figure-latex/unnamed-chunk-24-2.pdf>]
+[21 <./muzo_limpieza_files/figure-latex/unnamed-chunk-24-2.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1371.
 
@@ -1358,7 +1348,7 @@ Package xcolor Warning: Incompatible color definition on input line 1380.
 
 Package xcolor Warning: Incompatible color definition on input line 1380.
 
-[21]
+[22]
 
 Package xcolor Warning: Incompatible color definition on input line 1409.
 
@@ -1380,7 +1370,7 @@ Package xcolor Warning: Incompatible color definition on input line 1502.
 
 Package xcolor Warning: Incompatible color definition on input line 1502.
 
-[22]
+[23]
 
 Package xcolor Warning: Incompatible color definition on input line 1502.
 
@@ -1396,7 +1386,7 @@ Package xcolor Warning: Incompatible color definition on input line 1516.
 
 Package xcolor Warning: Incompatible color definition on input line 1516.
 
-[23]
+[24]
 Overfull \hbox (70.99341pt too wide) in paragraph at lines 1534--1534
 []\T1/lmtt/m/n/10 ##  $ Ticket     : Factor w/ 681 levels "110152","110413",..:
  525 596 662 50 473 276 86 396 345 133 ...[] 
@@ -1429,14 +1419,14 @@ Package xcolor Warning: Incompatible color definition on input line 1609.
 
 Package xcolor Warning: Incompatible color definition on input line 1620.
 
-[24]
+[25]
 
 Package xcolor Warning: Incompatible color definition on input line 1630.
 
 
 Package xcolor Warning: Incompatible color definition on input line 1630.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-29-1.pdf, id=305, 578.16pt x 28
+<muzo_limpieza_files/figure-latex/unnamed-chunk-29-1.pdf, id=315, 578.16pt x 28
 9.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-29-1.pdf Graphic file (typ
 e pdf)
@@ -1453,7 +1443,7 @@ Package xcolor Warning: Incompatible color definition on input line 1663.
 
 Package xcolor Warning: Incompatible color definition on input line 1663.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-30-1.pdf, id=306, 578.16pt x 28
+<muzo_limpieza_files/figure-latex/unnamed-chunk-30-1.pdf, id=316, 578.16pt x 28
 9.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-30-1.pdf Graphic file (typ
 e pdf)
@@ -1461,7 +1451,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-30-1.pd
 f  used on input line 1665.
 (pdftex.def)             Requested size: 469.75385pt x 234.8769pt.
-[25 <./muzo_limpieza_files/figure-latex/unnamed-chunk-29-1.pdf>]
+[26 <./muzo_limpieza_files/figure-latex/unnamed-chunk-29-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1686.
 
@@ -1471,7 +1461,7 @@ Package xcolor Warning: Incompatible color definition on input line 1699.
 
 Package xcolor Warning: Incompatible color definition on input line 1699.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-31-1.pdf, id=321, 578.16pt x 28
+<muzo_limpieza_files/figure-latex/unnamed-chunk-31-1.pdf, id=330, 578.16pt x 28
 9.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-31-1.pdf Graphic file (typ
 e pdf)
@@ -1479,7 +1469,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-31-1.pd
 f  used on input line 1701.
 (pdftex.def)             Requested size: 469.75385pt x 234.8769pt.
-[26 <./muzo_limpieza_files/figure-latex/unnamed-chunk-30-1.pdf>]
+[27 <./muzo_limpieza_files/figure-latex/unnamed-chunk-30-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1718.
 
@@ -1489,7 +1479,7 @@ Package xcolor Warning: Incompatible color definition on input line 1730.
 
 Package xcolor Warning: Incompatible color definition on input line 1730.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-32-1.pdf, id=333, 578.16pt x 28
+<muzo_limpieza_files/figure-latex/unnamed-chunk-32-1.pdf, id=342, 578.16pt x 28
 9.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-32-1.pdf Graphic file (typ
 e pdf)
@@ -1497,7 +1487,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-32-1.pd
 f  used on input line 1732.
 (pdftex.def)             Requested size: 469.75385pt x 234.8769pt.
-[27 <./muzo_limpieza_files/figure-latex/unnamed-chunk-31-1.pdf>]
+[28 <./muzo_limpieza_files/figure-latex/unnamed-chunk-31-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1744.
 
@@ -1507,7 +1497,7 @@ Package xcolor Warning: Incompatible color definition on input line 1756.
 
 Package xcolor Warning: Incompatible color definition on input line 1756.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-33-1.pdf, id=345, 578.16pt x 28
+<muzo_limpieza_files/figure-latex/unnamed-chunk-33-1.pdf, id=354, 578.16pt x 28
 9.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-33-1.pdf Graphic file (typ
 e pdf)
@@ -1515,7 +1505,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-33-1.pd
 f  used on input line 1758.
 (pdftex.def)             Requested size: 469.75385pt x 234.8769pt.
-[28 <./muzo_limpieza_files/figure-latex/unnamed-chunk-32-1.pdf>]
+[29 <./muzo_limpieza_files/figure-latex/unnamed-chunk-32-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1783.
 
@@ -1525,7 +1515,7 @@ Package xcolor Warning: Incompatible color definition on input line 1794.
 
 Package xcolor Warning: Incompatible color definition on input line 1794.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-34-1.pdf, id=357, 578.16pt x 28
+<muzo_limpieza_files/figure-latex/unnamed-chunk-34-1.pdf, id=366, 578.16pt x 28
 9.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-34-1.pdf Graphic file (typ
 e pdf)
@@ -1533,7 +1523,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-34-1.pd
 f  used on input line 1796.
 (pdftex.def)             Requested size: 469.75385pt x 234.8769pt.
-[29 <./muzo_limpieza_files/figure-latex/unnamed-chunk-33-1.pdf>]
+[30 <./muzo_limpieza_files/figure-latex/unnamed-chunk-33-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1810.
 
@@ -1543,7 +1533,7 @@ Package xcolor Warning: Incompatible color definition on input line 1818.
 
 Package xcolor Warning: Incompatible color definition on input line 1818.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-35-1.pdf, id=369, 469.755pt x 2
+<muzo_limpieza_files/figure-latex/unnamed-chunk-35-1.pdf, id=378, 469.755pt x 2
 89.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-35-1.pdf Graphic file (typ
 e pdf)
@@ -1551,7 +1541,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-35-1.pd
 f  used on input line 1824.
 (pdftex.def)             Requested size: 469.75386pt x 289.07928pt.
-[30 <./muzo_limpieza_files/figure-latex/unnamed-chunk-34-1.pdf>]
+[31 <./muzo_limpieza_files/figure-latex/unnamed-chunk-34-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1837.
 
@@ -1561,7 +1551,7 @@ Package xcolor Warning: Incompatible color definition on input line 1845.
 
 Package xcolor Warning: Incompatible color definition on input line 1845.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-36-1.pdf, id=381, 469.755pt x 2
+<muzo_limpieza_files/figure-latex/unnamed-chunk-36-1.pdf, id=391, 469.755pt x 2
 89.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-36-1.pdf Graphic file (typ
 e pdf)
@@ -1569,7 +1559,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-36-1.pd
 f  used on input line 1851.
 (pdftex.def)             Requested size: 469.75386pt x 289.07928pt.
-[31 <./muzo_limpieza_files/figure-latex/unnamed-chunk-35-1.pdf>]
+[32 <./muzo_limpieza_files/figure-latex/unnamed-chunk-35-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1871.
 
@@ -1579,7 +1569,7 @@ Package xcolor Warning: Incompatible color definition on input line 1879.
 
 Package xcolor Warning: Incompatible color definition on input line 1879.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-37-1.pdf, id=394, 469.755pt x 2
+<muzo_limpieza_files/figure-latex/unnamed-chunk-37-1.pdf, id=403, 469.755pt x 2
 89.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-37-1.pdf Graphic file (typ
 e pdf)
@@ -1587,7 +1577,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-37-1.pd
 f  used on input line 1881.
 (pdftex.def)             Requested size: 469.75386pt x 289.07928pt.
-[32 <./muzo_limpieza_files/figure-latex/unnamed-chunk-36-1.pdf>]
+[33 <./muzo_limpieza_files/figure-latex/unnamed-chunk-36-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1896.
 
@@ -1597,7 +1587,7 @@ Package xcolor Warning: Incompatible color definition on input line 1905.
 
 Package xcolor Warning: Incompatible color definition on input line 1905.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-38-1.pdf, id=408, 578.16pt x 28
+<muzo_limpieza_files/figure-latex/unnamed-chunk-38-1.pdf, id=418, 578.16pt x 28
 9.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-38-1.pdf Graphic file (typ
 e pdf)
@@ -1605,7 +1595,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-38-1.pd
 f  used on input line 1907.
 (pdftex.def)             Requested size: 469.75385pt x 234.8769pt.
-[33 <./muzo_limpieza_files/figure-latex/unnamed-chunk-37-1.pdf>]
+[34 <./muzo_limpieza_files/figure-latex/unnamed-chunk-37-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1917.
 
@@ -1615,7 +1605,7 @@ Package xcolor Warning: Incompatible color definition on input line 1926.
 
 Package xcolor Warning: Incompatible color definition on input line 1926.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-39-1.pdf, id=421, 578.16pt x 28
+<muzo_limpieza_files/figure-latex/unnamed-chunk-39-1.pdf, id=430, 578.16pt x 28
 9.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-39-1.pdf Graphic file (typ
 e pdf)
@@ -1623,7 +1613,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-39-1.pd
 f  used on input line 1928.
 (pdftex.def)             Requested size: 469.75385pt x 234.8769pt.
-[34 <./muzo_limpieza_files/figure-latex/unnamed-chunk-38-1.pdf> <./muzo_limpiez
+[35 <./muzo_limpieza_files/figure-latex/unnamed-chunk-38-1.pdf> <./muzo_limpiez
 a_files/figure-latex/unnamed-chunk-39-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1942.
@@ -1634,7 +1624,7 @@ Package xcolor Warning: Incompatible color definition on input line 1950.
 
 Package xcolor Warning: Incompatible color definition on input line 1950.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-40-1.pdf, id=438, 469.755pt x 2
+<muzo_limpieza_files/figure-latex/unnamed-chunk-40-1.pdf, id=447, 469.755pt x 2
 89.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-40-1.pdf Graphic file (typ
 e pdf)
@@ -1651,7 +1641,7 @@ Package xcolor Warning: Incompatible color definition on input line 1972.
 
 Package xcolor Warning: Incompatible color definition on input line 1972.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-41-1.pdf, id=439, 469.755pt x 2
+<muzo_limpieza_files/figure-latex/unnamed-chunk-41-1.pdf, id=448, 469.755pt x 2
 89.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-41-1.pdf Graphic file (typ
 e pdf)
@@ -1659,7 +1649,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-41-1.pd
 f  used on input line 1978.
 (pdftex.def)             Requested size: 469.75386pt x 289.07928pt.
-[35 <./muzo_limpieza_files/figure-latex/unnamed-chunk-40-1.pdf>]
+[36 <./muzo_limpieza_files/figure-latex/unnamed-chunk-40-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 1992.
 
@@ -1669,7 +1659,7 @@ Package xcolor Warning: Incompatible color definition on input line 2000.
 
 Package xcolor Warning: Incompatible color definition on input line 2000.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-42-1.pdf, id=453, 469.755pt x 2
+<muzo_limpieza_files/figure-latex/unnamed-chunk-42-1.pdf, id=462, 469.755pt x 2
 89.08pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-42-1.pdf Graphic file (typ
 e pdf)
@@ -1677,7 +1667,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-42-1.pd
 f  used on input line 2006.
 (pdftex.def)             Requested size: 469.75386pt x 289.07928pt.
-[36 <./muzo_limpieza_files/figure-latex/unnamed-chunk-41-1.pdf>]
+[37 <./muzo_limpieza_files/figure-latex/unnamed-chunk-41-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2025.
 
@@ -1687,7 +1677,7 @@ Package xcolor Warning: Incompatible color definition on input line 2044.
 
 Package xcolor Warning: Incompatible color definition on input line 2044.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-43-1.pdf, id=465, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-43-1.pdf, id=475, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-43-1.pdf Graphic file (typ
 e pdf)
@@ -1695,7 +1685,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-43-1.pd
 f  used on input line 2046.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-<muzo_limpieza_files/figure-latex/unnamed-chunk-43-2.pdf, id=466, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-43-2.pdf, id=476, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-43-2.pdf Graphic file (typ
 e pdf)
@@ -1708,7 +1698,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2046--2048
 [][]
  []
 
-[37 <./muzo_limpieza_files/figure-latex/unnamed-chunk-42-1.pdf>] [38 <./muzo_li
+[38 <./muzo_limpieza_files/figure-latex/unnamed-chunk-42-1.pdf>] [39 <./muzo_li
 mpieza_files/figure-latex/unnamed-chunk-43-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2077.
@@ -1722,7 +1712,7 @@ Package xcolor Warning: Incompatible color definition on input line 2082.
 
 Package xcolor Warning: Incompatible color definition on input line 2092.
 
-[39 <./muzo_limpieza_files/figure-latex/unnamed-chunk-43-2.pdf>]
+[40 <./muzo_limpieza_files/figure-latex/unnamed-chunk-43-2.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2097.
 
@@ -1765,7 +1755,7 @@ Package xcolor Warning: Incompatible color definition on input line 2166.
 
 Package xcolor Warning: Incompatible color definition on input line 2166.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-49-1.pdf, id=503, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-49-1.pdf, id=512, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-49-1.pdf Graphic file (typ
 e pdf)
@@ -1776,14 +1766,14 @@ f  used on input line 2168.
 
 Package xcolor Warning: Incompatible color definition on input line 2170.
 
-[40]
+[41]
 
 Package xcolor Warning: Incompatible color definition on input line 2179.
 
 
 Package xcolor Warning: Incompatible color definition on input line 2179.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-50-1.pdf, id=510, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-50-1.pdf, id=519, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-50-1.pdf Graphic file (typ
 e pdf)
@@ -1794,7 +1784,7 @@ f  used on input line 2181.
 
 Package xcolor Warning: Incompatible color definition on input line 2183.
 
-[41 <./muzo_limpieza_files/figure-latex/unnamed-chunk-49-1.pdf>]
+[42 <./muzo_limpieza_files/figure-latex/unnamed-chunk-49-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2188.
 
@@ -1813,7 +1803,7 @@ Package xcolor Warning: Incompatible color definition on input line 2203.
 
 Package xcolor Warning: Incompatible color definition on input line 2228.
 
-[42 <./muzo_limpieza_files/figure-latex/unnamed-chunk-50-1.pdf>]
+[43 <./muzo_limpieza_files/figure-latex/unnamed-chunk-50-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2233.
 
@@ -1829,7 +1819,7 @@ Package xcolor Warning: Incompatible color definition on input line 2244.
 
 Package xcolor Warning: Incompatible color definition on input line 2244.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-54-1.pdf, id=533, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-54-1.pdf, id=543, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-54-1.pdf Graphic file (typ
 e pdf)
@@ -1846,7 +1836,7 @@ Package xcolor Warning: Incompatible color definition on input line 2257.
 
 Package xcolor Warning: Incompatible color definition on input line 2257.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-55-1.pdf, id=534, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-55-1.pdf, id=544, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-55-1.pdf Graphic file (typ
 e pdf)
@@ -1857,7 +1847,7 @@ f  used on input line 2259.
 
 Package xcolor Warning: Incompatible color definition on input line 2261.
 
-[43 <./muzo_limpieza_files/figure-latex/unnamed-chunk-54-1.pdf>]
+[44 <./muzo_limpieza_files/figure-latex/unnamed-chunk-54-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2266.
 
@@ -1876,7 +1866,7 @@ Package xcolor Warning: Incompatible color definition on input line 2281.
 
 Package xcolor Warning: Incompatible color definition on input line 2305.
 
-[44 <./muzo_limpieza_files/figure-latex/unnamed-chunk-55-1.pdf>]
+[45 <./muzo_limpieza_files/figure-latex/unnamed-chunk-55-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2310.
 
@@ -1892,7 +1882,7 @@ Package xcolor Warning: Incompatible color definition on input line 2321.
 
 Package xcolor Warning: Incompatible color definition on input line 2321.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-59-1.pdf, id=559, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-59-1.pdf, id=568, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-59-1.pdf Graphic file (typ
 e pdf)
@@ -1909,7 +1899,7 @@ Package xcolor Warning: Incompatible color definition on input line 2334.
 
 Package xcolor Warning: Incompatible color definition on input line 2334.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-60-1.pdf, id=560, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-60-1.pdf, id=569, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-60-1.pdf Graphic file (typ
 e pdf)
@@ -1920,7 +1910,7 @@ f  used on input line 2336.
 
 Package xcolor Warning: Incompatible color definition on input line 2338.
 
-[45 <./muzo_limpieza_files/figure-latex/unnamed-chunk-59-1.pdf>]
+[46 <./muzo_limpieza_files/figure-latex/unnamed-chunk-59-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2343.
 
@@ -1939,7 +1929,7 @@ Package xcolor Warning: Incompatible color definition on input line 2358.
 
 Package xcolor Warning: Incompatible color definition on input line 2382.
 
-[46 <./muzo_limpieza_files/figure-latex/unnamed-chunk-60-1.pdf>]
+[47 <./muzo_limpieza_files/figure-latex/unnamed-chunk-60-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2387.
 
@@ -1955,7 +1945,7 @@ Package xcolor Warning: Incompatible color definition on input line 2398.
 
 Package xcolor Warning: Incompatible color definition on input line 2398.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-64-1.pdf, id=583, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-64-1.pdf, id=592, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-64-1.pdf Graphic file (typ
 e pdf)
@@ -1972,7 +1962,7 @@ Package xcolor Warning: Incompatible color definition on input line 2411.
 
 Package xcolor Warning: Incompatible color definition on input line 2411.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-65-1.pdf, id=584, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-65-1.pdf, id=593, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-65-1.pdf Graphic file (typ
 e pdf)
@@ -1983,7 +1973,7 @@ f  used on input line 2413.
 
 Package xcolor Warning: Incompatible color definition on input line 2415.
 
-[47 <./muzo_limpieza_files/figure-latex/unnamed-chunk-64-1.pdf>]
+[48 <./muzo_limpieza_files/figure-latex/unnamed-chunk-64-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2420.
 
@@ -1999,7 +1989,7 @@ Package xcolor Warning: Incompatible color definition on input line 2435.
 
 Package xcolor Warning: Incompatible color definition on input line 2435.
 
-[48 <./muzo_limpieza_files/figure-latex/unnamed-chunk-65-1.pdf>]
+[49 <./muzo_limpieza_files/figure-latex/unnamed-chunk-65-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2479.
 
@@ -2009,7 +1999,7 @@ Package xcolor Warning: Incompatible color definition on input line 2484.
 
 Package xcolor Warning: Incompatible color definition on input line 2484.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-68-1.pdf, id=607, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-68-1.pdf, id=617, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-68-1.pdf Graphic file (typ
 e pdf)
@@ -2035,7 +2025,7 @@ Package xcolor Warning: Incompatible color definition on input line 2515.
 
 Package xcolor Warning: Incompatible color definition on input line 2515.
 
-[49 <./muzo_limpieza_files/figure-latex/unnamed-chunk-68-1.pdf>]
+[50 <./muzo_limpieza_files/figure-latex/unnamed-chunk-68-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2533.
 
@@ -2063,7 +2053,7 @@ Package xcolor Warning: Incompatible color definition on input line 2587.
 
 Package xcolor Warning: Incompatible color definition on input line 2587.
 
-[50]
+[51]
 
 Package xcolor Warning: Incompatible color definition on input line 2621.
 
@@ -2109,7 +2099,7 @@ Package xcolor Warning: Incompatible color definition on input line 2706.
 
 Package xcolor Warning: Incompatible color definition on input line 2706.
 
-[51]
+[52]
 
 Package xcolor Warning: Incompatible color definition on input line 2717.
 
@@ -2155,7 +2145,7 @@ Package xcolor Warning: Incompatible color definition on input line 2802.
 
 Package xcolor Warning: Incompatible color definition on input line 2802.
 
-[52]
+[53]
 
 Package xcolor Warning: Incompatible color definition on input line 2831.
 
@@ -2165,7 +2155,7 @@ Package xcolor Warning: Incompatible color definition on input line 2842.
 
 Package xcolor Warning: Incompatible color definition on input line 2842.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-83-1.pdf, id=643, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-83-1.pdf, id=652, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-83-1.pdf Graphic file (typ
 e pdf)
@@ -2173,7 +2163,7 @@ e pdf)
 Package pdftex.def Info: muzo_limpieza_files/figure-latex/unnamed-chunk-83-1.pd
 f  used on input line 2844.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[53 <./muzo_limpieza_files/figure-latex/unnamed-chunk-83-1.pdf>]
+[54 <./muzo_limpieza_files/figure-latex/unnamed-chunk-83-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 2880.
 
@@ -2199,7 +2189,7 @@ Overfull \vbox (1.20544pt too high) detected at line 2941
 
 Package xcolor Warning: Incompatible color definition on input line 2941.
 
-[54]
+[55]
 
 Package xcolor Warning: Incompatible color definition on input line 2941.
 
@@ -2254,7 +2244,7 @@ Package xcolor Warning: Incompatible color definition on input line 3013.
 
 Package xcolor Warning: Incompatible color definition on input line 3015.
 
-[55]
+[56]
 
 Package xcolor Warning: Incompatible color definition on input line 3028.
 
@@ -2288,7 +2278,7 @@ Package xcolor Warning: Incompatible color definition on input line 3093.
 
 Package xcolor Warning: Incompatible color definition on input line 3093.
 
-[56]
+[57]
 
 Package xcolor Warning: Incompatible color definition on input line 3140.
 
@@ -2298,7 +2288,7 @@ Package xcolor Warning: Incompatible color definition on input line 3148.
 
 Package xcolor Warning: Incompatible color definition on input line 3148.
 
-[57]
+[58]
 
 Package xcolor Warning: Incompatible color definition on input line 3220.
 
@@ -2308,7 +2298,7 @@ Package xcolor Warning: Incompatible color definition on input line 3234.
 
 Package xcolor Warning: Incompatible color definition on input line 3234.
 
-[58]
+[59]
 
 Package xcolor Warning: Incompatible color definition on input line 3303.
 
@@ -2321,14 +2311,14 @@ Package xcolor Warning: Incompatible color definition on input line 3318.
 
 Package xcolor Warning: Incompatible color definition on input line 3318.
 
-[59]
+[60]
 
 Package xcolor Warning: Incompatible color definition on input line 3318.
 
 
 Package xcolor Warning: Incompatible color definition on input line 3318.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-96-1.pdf, id=689, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-96-1.pdf, id=698, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-96-1.pdf Graphic file (typ
 e pdf)
@@ -2348,14 +2338,14 @@ Package xcolor Warning: Incompatible color definition on input line 3355.
 
 Package xcolor Warning: Incompatible color definition on input line 3355.
 
-[60 <./muzo_limpieza_files/figure-latex/unnamed-chunk-96-1.pdf>]
+[61 <./muzo_limpieza_files/figure-latex/unnamed-chunk-96-1.pdf>]
 
 Package xcolor Warning: Incompatible color definition on input line 3355.
 
 
 Package xcolor Warning: Incompatible color definition on input line 3355.
 
-<muzo_limpieza_files/figure-latex/unnamed-chunk-97-1.pdf, id=702, 469.755pt x 3
+<muzo_limpieza_files/figure-latex/unnamed-chunk-97-1.pdf, id=712, 469.755pt x 3
 25.215pt>
 File: muzo_limpieza_files/figure-latex/unnamed-chunk-97-1.pdf Graphic file (typ
 e pdf)
@@ -2372,24 +2362,29 @@ Package xcolor Warning: Incompatible color definition on input line 3381.
 
 Package xcolor Warning: Incompatible color definition on input line 3381.
 
-[61 <./muzo_limpieza_files/figure-latex/unnamed-chunk-97-1.pdf>] [62]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3539.
-[63]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3539.
+[62 <./muzo_limpieza_files/figure-latex/unnamed-chunk-97-1.pdf>] [63] [64]
+Underfull \hbox (badness 1132) in paragraph at lines 3583--3587
+[][]\T1/lmr/m/n/10 (+20) Risdal, Megan. 2019. ``Ex-plor-ing Sur-vival on the Ti
+-tanic.'' []$https : / / www . kaggle . com / mrisdal /
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3601.
+[65]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3601.
 (./muzo_limpieza.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3539.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3539.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3601.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3601.
 
 Package rerunfilecheck Info: File `muzo_limpieza.out' has not changed.
-(rerunfilecheck)             Checksum: 0FD311A206BABF04EC34C6C27770A8EF;4142.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3539.
+(rerunfilecheck)             Checksum: F0B9E24592943BE926C458AB623FE778;4205.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3601.
  ) 
 Here is how much of TeX's memory you used:
- 15250 strings out of 492616
- 228852 string characters out of 6133220
- 350490 words of memory out of 5000000
- 18610 multiletter control sequences out of 15000+600000
- 57395 words of font info for 103 fonts, out of 8000000 for 9000
+ 15274 strings out of 492616
+ 229248 string characters out of 6133220
+ 350526 words of memory out of 5000000
+ 18612 multiletter control sequences out of 15000+600000
+ 57608 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,9n,38p,976b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2019
@@ -2405,10 +2400,10 @@ mr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texliv
 e/2019/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2019/texmf-dist/
 fonts/type1/public/lm/lmtk10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public
 /lm/lmtt10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on muzo_limpieza.pdf (63 pages, 1058670 bytes).
+Output written on muzo_limpieza.pdf (65 pages, 1066715 bytes).
 PDF statistics:
- 825 PDF objects out of 1000 (max. 8388607)
- 663 compressed objects within 7 object streams
- 198 named destinations out of 1000 (max. 500000)
- 10543 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 874 PDF objects out of 1000 (max. 8388607)
+ 709 compressed objects within 8 object streams
+ 216 named destinations out of 1000 (max. 500000)
+ 10551 words of extra memory for PDF output out of 12000 (max. 10000000)
 

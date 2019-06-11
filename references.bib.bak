@@ -1,0 +1,103 @@
+% Encoding: UTF-8
+@book{teetor2011r,
+  title={R Cookbook: Proven recipes for data analysis, statistics, and graphics},
+  author={Teetor, Paul},
+  year={2011},
+  publisher={" O'Reilly Media, Inc."}
+}
+@book{hothorn2014handbook,
+  title={A handbook of statistical analyses using R},
+  author={Hothorn, Torsten and Everitt, Brian S},
+  year={2014},
+  publisher={CRC press}
+}
+@book{baayen2008analyzing,
+  title={Analyzing linguistic data: A practical introduction to statistics using R},
+  author={Baayen, R Harald},
+  year={2008},
+  publisher={Cambridge University Press}
+}
+@Misc{ref:miceMV2019,
+  author       = {datascienceplus},
+  title        = {Imputing Missing Data with R; MICE package},
+  howpublished = {\url{https://datascienceplus.com/imputing-missing-data-with-r-mice-package/}},
+  year         = {2019},
+  url          = {\url{https://datascienceplus.com/imputing-missing-data-with-r-mice-package/}},
+}
+
+@Misc{ref:exploring-survival-on-the-titanic,
+  author       = {Risdal, Megan},
+  title        = {Exploring Survival on the Titanic},
+  howpublished = {\url{https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic}},
+  year         = {2019},
+  url          = {\url{https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic}},
+}
+
+@Misc{ref:kaggleTutotial2019,
+  author       = {kaggle},
+  title        = {Titanic: Machine Learning from Disaster},
+  howpublished = {\url{https://www.kaggle.com/c/titanic/overview}},
+  year         = {2019},
+  url          = {\url{https://www.kaggle.com/c/titanic/overview/tutorials}},
+}
+
+@Misc{ref:kaggleOverview2019,
+  author       = {kaggle},
+  title        = {Titanic: Machine Learning from Disaster: Overview},
+  howpublished = {\url{https://www.kaggle.com/c/titanic/overview/tutorials}},
+  year         = {2019},
+  url          = {\url{https://www.kaggle.com/c/titanic/overview/tutorials}},
+}
+
+@Misc{ref;Titanicsurvival2019,
+  author       = {Williams, Steven},
+  title        = {Titanic survival (logistic regression)},
+  howpublished = {\url{https://www.kaggle.com/drwilliamssteven/titanic-survival-logistic-regression}},
+  year         = {2019},
+  url          = {\url{https://www.kaggle.com/drwilliamssteven/titanic-survival-logistic-regression}},
+}
+
+@Article{bib:ILAD2019,
+  author  = {Calvo, Mireia and Subirats, Laia and P{\'e}rez, Diego},
+  title   = {Introducci{\'o}n a la limpieza y an{\'a}lisis de los datos},
+  journal = {UOC},
+  pages   = {33},
+}
+
+@Article{buuren2010mice,
+  author    = {Buuren, S van and Groothuis-Oudshoorn, Karin},
+  title     = {mice: Multivariate imputation by chained equations in R},
+  journal   = {Journal of statistical software},
+  year      = {2010},
+  pages     = {1--68},
+  publisher = {University of California, Los Angeles},
+}
+
+@Book{squire2015clean,
+  title     = {Clean data},
+  publisher = {Packt Publishing Ltd},
+  year      = {2015},
+  author    = {Squire, Megan},
+}
+
+@Article{han2001concepts,
+  author  = {Han, Jiawei and Kamber, Micheline and Mining, Data},
+  title   = {Concepts and techniques},
+  journal = {Morgan Kaufmann},
+  year    = {2001},
+  volume  = {340},
+  pages   = {94104--3205},
+}
+
+@Article{osborne2010data,
+  author    = {Osborne, Jason W},
+  title     = {Data cleaning basics: Best practices in dealing with extreme scores},
+  journal   = {Newborn and Infant Nursing Reviews},
+  year      = {2010},
+  volume    = {10},
+  number    = {1},
+  pages     = {37--43},
+  publisher = {Elsevier},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

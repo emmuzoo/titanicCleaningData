@@ -425,10 +425,11 @@ $(document).ready(function () {
 <li><a href="#regresion-lineal-logistica.">4.3.2. Regresión Lineal logística.</a></li>
 <li><a href="#random-forests">4.3.1. Random Forests</a></li>
 </ul></li>
+</ul></li>
 <li><a href="#representacion-de-los-resultados-a-partir-de-tablas-y-graficas.">5. Representación de los resultados a partir de tablas y gráficas.</a></li>
 <li><a href="#resolucion-del-problema.">6. Resolución del problema.</a></li>
 <li><a href="#contribuyentes">Contribuyentes</a></li>
-</ul></li>
+<li><a href="#references">References</a></li>
 </ul>
 </div>
 
@@ -2826,12 +2827,13 @@ forest.confusionMatrix</code></pre>
 </div>
 </div>
 </div>
-<div id="representacion-de-los-resultados-a-partir-de-tablas-y-graficas." class="section level2">
-<h2>5. Representación de los resultados a partir de tablas y gráficas.</h2>
+</div>
+<div id="representacion-de-los-resultados-a-partir-de-tablas-y-graficas." class="section level1">
+<h1>5. Representación de los resultados a partir de tablas y gráficas.</h1>
 <p>Durante el desarrollo de este trabajo en los apartados anteriores de mostraron los resultados obtenidos mediante diagramas de barras, boxplot y tablas.</p>
 </div>
-<div id="resolucion-del-problema." class="section level2">
-<h2>6. Resolución del problema.</h2>
+<div id="resolucion-del-problema." class="section level1">
+<h1>6. Resolución del problema.</h1>
 <p>En este trabajo se trató de la problemática de determinar qué variables influyeron más sobre la supervivencia de los pasajeros a bordo del Titanic. Para llevar a cabo esta tarea se realizó se utilizó el <em>conjunto de datos de entrenamiento</em> y <em>conjunto de datos de prueba</em>.</p>
 <p>Sobre este conjunto de datos se realizó una fase de preprocesamiento que incluye varias tareas de limpieza de datos, (tales como, conversiones, eliminación los valores perdidos o nulos), discretización de valores numéricos, etc. En la imputación de valores perdidos se pueden destacar el trabajo realizado en las variables Edad (Age) y Cubierta (Deck).</p>
 <p>Para la imputación de los valores perdidos de la característica edad (Age) se empleó el algoritmo <strong>MICE</strong> (Multivariate Imputation by Chained Equations) de R. MICE se ha convertido en un método de referencia para tratar los datos perdidos.</p>
@@ -2845,8 +2847,8 @@ forest.confusionMatrix</code></pre>
 <p>Como tarea adicional se puede plantear discretizar la variable Edad (Age). Si tenemos en consideración que las mujeres y niños tienen prioridad en el momento de abordar los botes salvavidas. El discretizar esta variable (por ejemplo: niño, joven, adulto, y anciano) puede convertir esta nueva una variable que puede influir en la supervivencia.</p>
 <p>Otro cambio podría incluir mejorar la creación de la variable Título. Por ejemplo, los valores ‘Lady’, ‘Sir’, y ‘Jonkheer’ se pueden mapear a un valor de ‘Royalty’ en lugar de ‘Rare Title’. Este cambio resalta la condición socioeconómica del pasajero. Este factor puede influir en la supervivencia.</p>
 </div>
-<div id="contribuyentes" class="section level2">
-<h2>Contribuyentes</h2>
+<div id="contribuyentes" class="section level1">
+<h1>Contribuyentes</h1>
 <table>
 <thead>
 <tr class="header">
@@ -2869,6 +2871,49 @@ forest.confusionMatrix</code></pre>
 </tr>
 </tbody>
 </table>
+</div>
+<div id="references" class="section level1 unnumbered">
+<h1>References</h1>
+<div id="refs" class="references">
+<div id="ref-baayen2008analyzing">
+<p>Baayen, R Harald. 2008. <em>Analyzing Linguistic Data: A Practical Introduction to Statistics Using R</em>. Cambridge University Press.</p>
+</div>
+<div id="ref-buuren2010mice">
+<p>Buuren, S van, and Karin Groothuis-Oudshoorn. 2010. “Mice: Multivariate Imputation by Chained Equations in R.” <em>Journal of Statistical Software</em>, 1–68.</p>
+</div>
+<div id="ref-bib:ILAD2019">
+<p>Calvo, Mireia, Laia Subirats, and Diego Pérez. n.d. “Introducción a La Limpieza Y análisis de Los Datos.” <em>UOC</em>, 33.</p>
+</div>
+<div id="ref-ref:miceMV2019">
+<p>datascienceplus. 2019. “Imputing Missing Data with R; Mice Package.” <a href="https://datascienceplus.com/imputing-missing-data-with-r-mice-package/">https://datascienceplus.com/imputing-missing-data-with-r-mice-package/</a>. <a href="\url{https://datascienceplus.com/imputing-missing-data-with-r-mice-package/}">\url{https://datascienceplus.com/imputing-missing-data-with-r-mice-package/}</a>.</p>
+</div>
+<div id="ref-han2001concepts">
+<p>Han, Jiawei, Micheline Kamber, and Data Mining. 2001. “Concepts and Techniques.” <em>Morgan Kaufmann</em> 340: 94104–93205.</p>
+</div>
+<div id="ref-hothorn2014handbook">
+<p>Hothorn, Torsten, and Brian S Everitt. 2014. <em>A Handbook of Statistical Analyses Using R</em>. CRC press.</p>
+</div>
+<div id="ref-ref:kaggleOverview2019">
+<p>kaggle. 2019a. “Titanic: Machine Learning from Disaster: Overview.” <a href="https://www.kaggle.com/c/titanic/overview/tutorials">https://www.kaggle.com/c/titanic/overview/tutorials</a>. <a href="\url{https://www.kaggle.com/c/titanic/overview/tutorials}">\url{https://www.kaggle.com/c/titanic/overview/tutorials}</a>.</p>
+</div>
+<div id="ref-ref:kaggleTutotial2019">
+<p>———. 2019b. “Titanic: Machine Learning from Disaster: Tutorial.” <a href="https://www.kaggle.com/c/titanic/overview">https://www.kaggle.com/c/titanic/overview</a>. <a href="\url{https://www.kaggle.com/c/titanic/overview/tutorials}">\url{https://www.kaggle.com/c/titanic/overview/tutorials}</a>.</p>
+</div>
+<div id="ref-osborne2010data">
+<p>Osborne, Jason W. 2010. “Data Cleaning Basics: Best Practices in Dealing with Extreme Scores.” <em>Newborn and Infant Nursing Reviews</em> 10 (1): 37–43.</p>
+</div>
+<div id="ref-ref:exploring-survival-on-the-titanic">
+<p>Risdal, Megan. 2019. “Exploring Survival on the Titanic.” <a href="https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic">https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic</a>. <a href="\url{https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic}">\url{https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic}</a>.</p>
+</div>
+<div id="ref-squire2015clean">
+<p>Squire, Megan. 2015. <em>Clean Data</em>. Packt Publishing Ltd.</p>
+</div>
+<div id="ref-teetor2011r">
+<p>Teetor, Paul. 2011. <em>R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics</em>. &quot; O’Reilly Media, Inc.&quot;.</p>
+</div>
+<div id="ref-ref;Titanicsurvival2019">
+<p>Williams, Steven. 2019. “Titanic Survival (Logistic Regression).” <a href="https://www.kaggle.com/drwilliamssteven/titanic-survival-logistic-regression">https://www.kaggle.com/drwilliamssteven/titanic-survival-logistic-regression</a>. <a href="\url{https://www.kaggle.com/drwilliamssteven/titanic-survival-logistic-regression}">\url{https://www.kaggle.com/drwilliamssteven/titanic-survival-logistic-regression}</a>.</p>
+</div>
 </div>
 </div>
 

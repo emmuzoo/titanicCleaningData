@@ -3,12 +3,14 @@ title: ' Tipología y ciclo de vida. PRACTICA 2: LIMPIEZA Y VALIDACIÓN DE LOS D
 author: "Edison Marcelo Muzo Oyana"
 date: '`r format(Sys.Date(),"%e de %B, %Y")`'
 output:
-  html_document:
-    toc: yes
   pdf_document:
+    toc: yes
+  html_document:
     toc: yes
   word_document:
     toc: yes
+bibliography: references.bib
+nocite: '@*'
 ---
 
 ```{r setup, include=FALSE}
@@ -1668,11 +1670,11 @@ La tasa de error es `r 100*(1 - forest.confusionMatrix$overall["Accuracy"])` %
 * La **especificidad** es del `r formatC(100*forest.confusionMatrix$byClass["Specificity"], format = 'f', digits = 2)` %.
 
 
-## 5. Representación de los resultados a partir de tablas y gráficas.
+# 5. Representación de los resultados a partir de tablas y gráficas.
 
 Durante el desarrollo de este trabajo en los apartados anteriores de mostraron los resultados obtenidos mediante diagramas de barras, boxplot y tablas.
 
-## 6. Resolución del problema.
+# 6. Resolución del problema.
 
 En este trabajo se trató de la problemática de determinar qué variables influyeron más sobre la supervivencia de los pasajeros a bordo del Titanic. 
 Para llevar a cabo esta tarea se realizó se utilizó el *conjunto de datos de entrenamiento* y *conjunto de datos de prueba*.
@@ -1709,7 +1711,7 @@ Como tarea adicional se puede plantear discretizar la variable Edad (Age). Si te
 
 Otro cambio podría incluir mejorar la creación de la variable Título. Por ejemplo, los valores ‘Lady’, ‘Sir’, y ‘Jonkheer’ se pueden mapear a un valor de ‘Royalty’ en lugar de ‘Rare Title’. Este cambio resalta la condición socioeconómica del pasajero. Este factor puede influir en la supervivencia.
 
-## Contribuyentes
+# Contribuyentes
 
 | Contribuciones              | Firma                      |
 |-----------------------------|----------------------------|
@@ -1718,3 +1720,4 @@ Otro cambio podría incluir mejorar la creación de la variable Título. Por eje
 | Desarrollo código           | Edison Muzo                |
 
 
+# References
