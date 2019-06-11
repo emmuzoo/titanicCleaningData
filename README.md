@@ -3,7 +3,36 @@
 Limpieza de un dataset de Titanic
 
 ## Instalación de dependencias
-Para realizar este proyecto se ha utilizado R 3.6+.
+Para realizar este proyecto se ha utilizado R 3.6+ , RStudio y R markdown.
+Las libreris empeladas en este trabajo son:
+
+library(knitr)
+library(stringr)
+library(dplyr)
+library(psych)
+library(VIM)
+
+library(gridExtra)
+library(Rmisc)
+library("car")
+library(ggpubr)
+library(corrplot)
+library(caret)
+library(MLmetrics)
+
+library(GGally)
+library(psych)
+library(stats)
+library(kableExtra) # Tables
+library(nortest)
+library('mice') # imputation
+library('randomForest') # classification algorithm
+
+library(graphics)
+library('ggplot2') # visualization
+library('ggthemes') # visualization
+library('scales') # visualization
+
 
 ## Descripción de los ficheros
 | Nombre del Fichero | Decripción |
