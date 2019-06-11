@@ -1,36 +1,54 @@
 # titanicCleaningData
 
-Limpieza de un dataset de Titanic
+Limpieza y validación de un dataset de Supervivencia de pasajeros en el Titanic
 
 ## Instalación de dependencias
 Para realizar este proyecto se ha utilizado R 3.6+ , RStudio y R markdown.
 Las libreris empeladas en este trabajo son:
 
 library(knitr)
+
 library(stringr)
 library(dplyr)
+
 library(psych)
+
 library(VIM)
 
 library(gridExtra)
+
 library(Rmisc)
+
 library("car")
+
 library(ggpubr)
+
 library(corrplot)
+
 library(caret)
+
 library(MLmetrics)
 
 library(GGally)
+
 library(psych)
+
 library(stats)
+
 library(kableExtra) # Tables
+
 library(nortest)
+
 library('mice') # imputation
+
 library('randomForest') # classification algorithm
 
 library(graphics)
+
 library('ggplot2') # visualization
+
 library('ggthemes') # visualization
+
 library('scales') # visualization
 
 
@@ -38,7 +56,7 @@ library('scales') # visualization
 | Nombre del Fichero | Decripción |
 |--------------------|------------|
 | README.md	| Fichero que contiene información del proyecto y de los ficheros|
-| muzo_limpieza.Rmd  | Fichero RMarkdown con código R y Texto |
+| muzo_limpieza.Rmd  | Fichero RMarkdown con código R y en el informe del trabajo |
 | references.bib	   | Fichero de Referencias |
 | muzo_limpieza.html	| Informe del trabajo en formato HTML |
 | muzo_limpieza.pdf	| Informe del trabajo en formato PFD |
